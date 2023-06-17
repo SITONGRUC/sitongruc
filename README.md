@@ -6,5 +6,7 @@
 
 🔭 I’m a Master of Science graduate from the U of M
 
+📫 My email is li003217@umn.edu
+
 🚀 To know more about me, you can visit my [Portfolio Demo](https://sitongruc.github.io/) (I'm still working on it)
 
