@@ -4,7 +4,7 @@
 
 ✨ I’m Bryan. Welcome to my GitHub profile. Feel free to check out my projects!
 
-🔭 I’m a Master of Science graduate from the U of M
+🔭 I’m a Master of Science graduate from Carslon School of Management
 
 📫 My email is li003217@umn.edu
 
