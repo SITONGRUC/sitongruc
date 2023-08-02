@@ -10,3 +10,6 @@
 
 🚀 To know more about me, you can visit my [Portfolio Demo](https://sitongruc.github.io/) (I'm still working on it)
 
+This is my first internship output for CICC [Link](https://github.com/SITONGRUC/cicc_work)
+
+
