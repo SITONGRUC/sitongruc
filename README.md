@@ -12,4 +12,6 @@
 
 This is my first internship output for CICC [Link](https://github.com/SITONGRUC/cicc_work)
 
+I''m a fan of Bryan Kelly and Dacheng Xiu 
+
 
