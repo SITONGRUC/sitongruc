@@ -10,7 +10,7 @@
 
 🚀 To know more about me, you can visit my [Portfolio](https://sitongruc.github.io/)
 
-You may also view my blog [here]([https://sitongruc.github.io/](https://sitongruc.github.io/sitongliblog/index.html)
+You may also view my blog [here](https://sitongruc.github.io/)
 
 I''m a fan of [Bryan Kelly](https://www.bryankellyacademic.org/)
 
