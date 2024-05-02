@@ -8,9 +8,9 @@
 
 📫 My email is li003217@umn.edu
 
-🚀 To know more about me, you can visit my [Portfolio Demo](https://sitongruc.github.io/) (I'm still working on it)
+🚀 To know more about me, you can visit my [Portfolio](https://sitongruc.github.io/)
 
-This is my first internship output for CICC [Link](https://github.com/SITONGRUC/cicc_work)
+You may also view my blog [here]([https://sitongruc.github.io/](https://sitongruc.github.io/sitongliblog/index.html))
 
-I''m a fan of [Bryan Kelly](https://www.bryankellyacademic.org/),[Dacheng Xiu](https://dachxiu.chicagobooth.edu/)
+I''m a fan of [Bryan Kelly](https://www.bryankellyacademic.org/)
 
