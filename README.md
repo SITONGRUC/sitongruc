@@ -12,5 +12,5 @@
 
 This is my first internship output for CICC [Link](https://github.com/SITONGRUC/cicc_work)
 
-I''m a fan of [Bryan Kelly](https://www.bryankellyacademic.org/)
+I''m a fan of [Bryan Kelly](https://www.bryankellyacademic.org/),[Dacheng Xiu](https://dachxiu.chicagobooth.edu/)
 
