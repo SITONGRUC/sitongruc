@@ -2,7 +2,7 @@
 
 ---
 
-✨ I’m Bryan. Welcome to my GitHub profile. Feel free to check out my projects!
+✨ I’m Sitong Li (李思桐）. Welcome to my GitHub profile. Feel free to check out my projects!
 
 🔭 I’m a Master of Science graduate from Carslon School of Management
 
