@@ -12,5 +12,4 @@
 
 You may also view my blog [here](https://sitongruc.github.io/sitongliblog/index.html)
 
-I''m a fan of [Bryan Kelly](https://www.bryankellyacademic.org/)
 
